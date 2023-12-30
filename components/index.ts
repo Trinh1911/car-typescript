@@ -7,6 +7,7 @@ import CustomFilter from "./CustomFilter";
 import SearchManufacturer from "./SearchManufacturer";
 import CarCad from "./CarCad";
 import CarDetails from "./CarDetails";
+import ShowMore from "./ShowMore";
 export {
-    Hero, CustomButton, Footer, NavBar, SearchBar, CustomFilter, SearchManufacturer, CarCad, CarDetails
+    Hero, CustomButton, Footer, NavBar, SearchBar, CustomFilter, SearchManufacturer, CarCad, CarDetails, ShowMore
 }
